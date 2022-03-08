@@ -1,4 +1,4 @@
-# nodemcu_smart_vent
+# nodemcu-smart-air-vent
 NodeMCU Controlled Smart Vent for Home Assistant
 
 I'll post an Instructable and more information on how I built this soon! I wanted an automatic way to control HVAC air for specific rooms that get hotter or colder than the rest of the house (single zone), so I built this! There are commercial versions of this, but they depend on the cloud and are much more expensive. This project integrates locally with Home Assistant via REST. Home Assistant has several temperature sensors attached to it. They are used to automatically determine when the vent needs to be opened or closed.
